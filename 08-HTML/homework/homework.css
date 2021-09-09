@@ -6,17 +6,17 @@
     </style>
     </head>       
     <body>
-        1<div class="divClass">
+        <div class="divClass">
             <h1 style="color:blueviolet">Marcelo</h1>
             <h3>Henry</h3>
             <h4>tarea de HTML / CSS</h4>
         </div>
-        2<div class="divClass">
+        <div class="divClass">
             <span Id=spanId>Mi comida favorita es la pizza integral</span>
                 <spanId style="margin: 50px; font-size: 18px;">
             <a>https://10619-2.s.cdn12.com/rests/original/107_500127068.jpg</a>
          </div>   
-        3<div id="thirdDiv"> 
+        <div id="thirdDiv"> 
             <thirdDiv style="height: 600px; width: 500px; background-color: red; padding: 50px; border-color: darkcyan"></thirdDiv>
             <ul>
                 <li>
